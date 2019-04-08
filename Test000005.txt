@@ -1,2 +1,0 @@
-Git Enterprise Test Commit
-- Nodong
